@@ -15,8 +15,11 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^3.11.1",
+    "gatsby": "4.17.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
   }
 }
